@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals and Invariants.md",
+                "file": "Executing on MVP 1.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals and Invariants.md",
+                "file": "Executing on MVP 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals and Invariants.md",
+                "file": "Executing on MVP 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals and Invariants.md"
+                "file": "Executing on MVP 1.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "a768ef652e79427e",
   "lastOpenFiles": [
-    "MVP.md",
     "Goals and Invariants.md",
+    "Executing on MVP 1.md",
+    "MVP.md",
     "Welcome.md"
   ]
 }
