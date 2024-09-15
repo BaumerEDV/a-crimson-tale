@@ -36,6 +36,12 @@
 - shield healing
 - group attack action easier to run than WWN swarm attack
 - special not-classes that are a set of arts that can be applied to a closed set of defined classes (i.e. a set of dragonknight powers that can be used by fighters or barbarians) - probably limit a character to one of those sets
+- very likely want a charge action
+-  very likely want a run action for 3-4x movement 
+- very likely want no penalty on a charge or run
+
+
+
 
 ## research questions 
 magic items
