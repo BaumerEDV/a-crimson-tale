@@ -1,12 +1,15 @@
 ---
 tags: class, healer
 ---
+dps: low
+def: low
 # Powers
 ## Passive
 - prayer of healing / some party wide healing buff
 ## At-Will
 - smite / sacred flame type ability
 - mending
+- 4e astral seal
 ## Scene
 - single target heal
 - sanctuary

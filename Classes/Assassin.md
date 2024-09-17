@@ -1,6 +1,8 @@
 ---
 tags: class, damage
 ---
+DPR: top
+DEF: mid
 # Powers
 ## Passive
 - thieves cant

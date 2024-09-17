@@ -1,6 +1,8 @@
 ---
 tags: class, damage
 ---
+DPR: top
+DEF: avg
 # Power options
 ## Passive
 - shoot further with bows than other characters can
@@ -10,8 +12,7 @@ tags: class, damage
 - normal attack vs better attack for which you have to stand still
 ## Scene
 - stunning melee strike with the bow
-- shot with knockback
-- arrow to the knee slow/ prone
+- arrow to the knee slow/ prone / knockback
 - rapid fire shots
 - grappling arrow
 ## Expedition

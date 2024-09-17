@@ -1,6 +1,8 @@
 ---
 tags: class, tank
 ---
+DPR: low (but reactions)
+DEF: highest
 # Powers
 ## Passive
 - AoOs reduce enemy speed to zero and keep them there

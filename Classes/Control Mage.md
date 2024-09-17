@@ -1,6 +1,8 @@
 ---
 tags: class, control
 ---
+DPR: low
+DEF: low
 # Powers
 ## Passive
 ## At-Will

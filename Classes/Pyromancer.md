@@ -1,6 +1,8 @@
 ---
 tags: class, damage
 ---
+DPR: highest
+DEF: lowest
 # Powers
 ## Passive
 - immunity to fire
@@ -31,3 +33,5 @@ tags: class, damage
 - protection from energy
 - burning hands / dragon's breath
 - heat metal
+- fear people set on fire
+- fire whirlwind vortex

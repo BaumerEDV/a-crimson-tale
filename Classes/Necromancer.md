@@ -1,12 +1,14 @@
 ---
 tags: class, summoner
 ---
+damage: mid
+durability: mid
 # Powers
 ## Passive
-- prevent people from dying at death's door
+- prevent people from dying at death's door (or speed up bleeding out)
 ## At-Will
-- spectral hand attacks people
-- sickness inducing
+- spectral hand attacks people (spiritual weapon)
+- sickness inducing ray
 - cause fear
 ## Scene
 - Skeletal claws from the ground ensnare enemies
@@ -32,3 +34,4 @@ tags: class, summoner
 - control undead
 - auto stabilize / cheat death
 - cease need for food, drink, sleep
+- shoot laserbeam at enemy and spawn a shadow under your control when you hi
