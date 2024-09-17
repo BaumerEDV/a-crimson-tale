@@ -1,0 +1,6 @@
+- [ ] Effort
+- [ ] Combat / Turn Order / Actions
+- [ ] Skill System
+- [ ] Encumbrance
+- [ ] Overland Travel
+- [ ] Dungeon Exploration

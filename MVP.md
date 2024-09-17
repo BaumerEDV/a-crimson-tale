@@ -26,5 +26,5 @@ Design classes:
 - archer (most ranged single target)
 - pyromancer (most aoe damage, most fragile)
 - control mage / enchanter (most fragile, best controller)
-- healing cleric (holy prist, best healer)
+- healing cleric (holy priest, best healer)
 - necromancer (summons skellies) (summoner)

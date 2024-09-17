@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals and Invariants.md",
+                "file": "Classes/Knight.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals and Invariants.md",
+                "file": "Classes/Knight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals and Invariants.md",
+                "file": "Classes/Knight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals and Invariants.md"
+                "file": "Classes/Knight.md"
               }
             }
           }
@@ -148,6 +148,20 @@
   },
   "active": "a768ef652e79427e",
   "lastOpenFiles": [
+    "Classes/Necromancer.md",
+    "Classes/Knight.md",
+    "Classes/Pyromancer.md",
+    "Classes/Holy Priest.md",
+    "Pasted image 20240917174940.png",
+    "Classes/Control Mage.md",
+    "Classes/Assassin.md",
+    "Classes/Archer.md",
+    "Core Systems.md",
+    "nacro.md",
+    "MVP.md",
+    "Templates",
+    "Classes",
+    "Goals and Invariants.md",
     "lu5647183gko.tmp",
     "Executing on MVP 1.md",
     "lu351653cxun.tmp",
@@ -157,11 +171,6 @@
     "lu351653cuxx.tmp",
     "lu351653cuma.tmp",
     "lu351653cujv.tmp",
-    "lu351653ctro.tmp",
-    "lu351653ctho.tmp",
-    "lu3052931zyd.tmp",
-    "Goals and Invariants.md",
-    "MVP.md",
     "Welcome.md"
   ]
 }

@@ -1,0 +1,41 @@
+---
+tags: class, damage
+---
+## Ability Ideas
+- attack for a ton of damage
+- turn invisible
+- smoke bomb
+- attack and run
+- apply damage over time poison
+- teleport behind opponent
+- disguise yourself unrecognizably / fake identity
+- bonus damage to unaware targets
+- thieves cant
+- thieves tools
+- some general skill boost
+- trap / secret door finding bonuses
+- proficiencies with tools like disguise, forgery, gaming sets
+- talk to the dead
+- produce poison that will deal damage if consumed
+- (how do you explain poison not being shared with the entire party; possibly have poisoner be a different class entirely...)
+- use gadgets like ball bearings or caltrops more effectively
+- climb more effectively
+- uncanny dodge / take reduced damage from an attack
+- evasion / take reduced damage from aoe
+- be able to judge enemy HP to plan out assassinations
+- be able to do stuff blindly
+- be invisible in darkness
+- become incorporeal
+- be immune/resistant to mindaltering effects
+- 4 effort for save or die
+- lies and thoughts cannot be caught by magic
+- extreme luck / succeed at something
+- found / have access to underworld organizations
+- garrote type ability to silence enemy / stop them from screaming or casting spells
+- fan of knives AoE
+- increased sprint speed
+- kick / cheap trick for counterspell
+- shroud of night, be harder to make out / hit / AC bonus
+- pocket sand
+- cheat death, when you'd die, spend all effort (if you have any) and stabilize instead
+- cant be slowed / immobilized

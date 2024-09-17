@@ -1,0 +1,78 @@
+---
+tags: class, control
+---
+## Ability Ideas
+- hold monster
+- dominate monster
+- command: halt
+- illusory chasm
+- phantom steed
+- sleep
+- haste
+- web
+- ray of frost
+- some confusion effect that makes it easier to be hit / hit for more
+- light / continual flame
+- mage hand
+- should probably have a ritual book or so for an expanded selection of utility (but not for free)
+- color spray blinding
+- comprehend languages
+- detect magic
+- feather fall
+- find familiar
+- fog cloud
+- grease
+- identify
+- magic missile
+- hideous laughter
+- blindness
+- detect thoughts
+- earthbind
+- enlarge / reduce
+- invisibility
+- knock
+- earthen grasp / arcane hand type stuff
+- locate object
+- magic weapon
+- teleport an ally
+- counterspell / dispel magic
+- create a crevace
+- fear
+- fly
+- explosive rune
+- protection from energy
+- speak with dead
+- sleet storm
+- slow
+- wall of sand
+- arcane eye
+- banishment
+- dimension door / arcane gate
+- teleportation circle
+- teleport proper
+- resilient sphere
+- polymorph
+- stone shape / rock to mud
+- watery sphere
+- legend lore
+- passwall
+- scrying
+- telekinesis
+- contingency
+- magic jar
+- mass suggestion
+- irresistable dance
+- scatter
+- etherealness
+- Magnificent Mansion / Mighty Fortress
+- Plane Shift
+- Prismatic Spray
+- whirlwind
+- reverse gravity
+- clone
+- simulacrum
+- feeblemind
+- mind blank
+- astral projection
+- imprisonment
+- time stop

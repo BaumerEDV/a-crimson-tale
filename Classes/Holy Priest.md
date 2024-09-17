@@ -1,0 +1,53 @@
+---
+tags: class, healer
+---
+## Ability Ideas
+- smite / sacred flame type ability
+- AoE heal
+- single target heal
+- resurrection
+- summon a temple to your god
+- waterwalk
+- water breathing
+- wall of light
+- summon a celestial ally
+- mending
+- resistance
+- thaumaturgy
+- create water / create / purify food and drink
+- command grovel
+- sanctuary
+- some temp hp shield
+- augury
+- Aid / max hp increase?
+- calm emotions
+- find traps
+- hold person
+- lesser / greater restoration
+- prayer of healing / some party wide healing buff
+- silence
+- protection from poison / energy
+- blessing of protection / proactive damage reduction
+- zone of truth
+- bestow curse
+- clairvoyance / scrying
+- daylight
+- dispel magic
+- life transferring ability
+- remove curse
+- sending
+- speak with dead
+- tongues
+- banishment
+- death ward
+- commune
+- contagion
+- sticks to snakes
+- flame strike
+- legend lore
+- find the path
+- forbiddance / hallow (maybe should be an enchantment instead)
+- heroes feast
+- word of recall (be careful about expedition effort here!)
+- anti magic field
+- true resurrection

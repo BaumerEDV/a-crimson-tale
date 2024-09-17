@@ -1,0 +1,27 @@
+---
+tags: class, summoner
+---
+## Ability Ideas
+- Summon Skeleton Archer
+- Summon Zombie
+- Summon Bone Golem
+- Drain Life Attack
+- Become ethereal / insubstantial / incorporeal
+- Skeletal claws from the ground ensnare enemies
+- spectral hand attacks people
+- prevent people from dying at death's door
+- fear
+- blindness
+- sickness inducing
+- bestow curse
+- straight up blasts like inflict wounds / blight
+- circle of death
+- magic jar
+- soul cage
+- clone
+- some resurrection type mechanic
+- some spectral scythe attack
+- turn undead
+- control undead
+- auto stabilize / cheat death
+- cease need for food, drink, sleep
