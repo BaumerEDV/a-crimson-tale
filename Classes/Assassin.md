@@ -23,7 +23,7 @@ You can unerringly make even difficult climbs.
 ### Hit and Run
 Action: Main Action
 Melee Attack Roll vs AC
-You can break up 30 feet of movement and during that movement make one melee attack.
+You can break up 30 feet of movement and during that movement make one melee attack. This movement does not provoke Attacks of Opportunity.
 Hit: 2d8 damage
 ### Pressing Routine
 Action: Main Action
@@ -43,7 +43,7 @@ Attack every enemy adjacent to you
 Hit: 2d6 damage
 ### Riposte
 Effort: spend Effort for the scene
-Action: Reaction, when you get hit by a melee attack
+Action: Reaction, when you are missed by a melee attack
 Melee Attack Roll vs AC
 Hit: d8 damage
 This resolves simultaneously with the attack hitting you.
