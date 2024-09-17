@@ -10,6 +10,7 @@ tags: class, healer
 ## Scene
 - single target heal
 - sanctuary
+- blindness
 - AoE heal
 - command grovel
 ## Expedition

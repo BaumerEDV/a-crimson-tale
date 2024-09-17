@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Holy Priest.md",
+                "file": "Classes/Pyromancer.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Holy Priest.md",
+                "file": "Classes/Pyromancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Holy Priest.md",
+                "file": "Classes/Pyromancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Holy Priest.md"
+                "file": "Classes/Pyromancer.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "a768ef652e79427e",
   "lastOpenFiles": [
-    "Classes/Control Mage.md",
+    "Classes/Necromancer.md",
+    "Classes/Knight.md",
     "Classes/Assassin.md",
     "Classes/Archer.md",
-    "Classes/Knight.md",
-    "Classes/Necromancer.md",
-    "Classes/Pyromancer.md",
     "Classes/Holy Priest.md",
+    "Classes/Control Mage.md",
+    "Classes/Pyromancer.md",
     "Pasted image 20240917174940.png",
     "Core Systems.md",
     "nacro.md",
