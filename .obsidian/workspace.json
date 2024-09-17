@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b34122e216672b7",
+        "id": "da1076b855988e91",
         "type": "tabs",
         "children": [
           {
-            "id": "a768ef652e79427e",
+            "id": "18cf5faf4430ecac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Pyromancer.md",
+                "file": "Classes/Assassin.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Pyromancer.md",
+                "file": "Classes/Assassin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Pyromancer.md",
+                "file": "Classes/Assassin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Pyromancer.md"
+                "file": "Classes/Assassin.md"
               }
             }
           }
@@ -146,17 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a768ef652e79427e",
+  "active": "18cf5faf4430ecac",
   "lastOpenFiles": [
-    "Classes/Necromancer.md",
+    "Classes/Archer.md",
+    "Classes/Assassin.md",
+    "Templates/ClassTemplate.md",
+    "Core Systems.md",
     "Classes/Pyromancer.md",
+    "Classes/Necromancer.md",
     "Classes/Holy Priest.md",
     "Classes/Knight.md",
     "Classes/Control Mage.md",
-    "Classes/Assassin.md",
-    "Classes/Archer.md",
     "Pasted image 20240917174940.png",
-    "Core Systems.md",
     "nacro.md",
     "MVP.md",
     "Templates",
