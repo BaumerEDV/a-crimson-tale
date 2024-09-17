@@ -1,41 +1,47 @@
 ---
 tags: class, control
 ---
-## Ability Ideas
-- hold monster
-- dominate monster
-- command: halt
-- illusory chasm
-- phantom steed
-- sleep
-- haste
-- web
+# Powers
+## Passive
+## At-Will
+- magic missile
 - ray of frost
 - some confusion effect that makes it easier to be hit / hit for more
+## Scene
+- blindness
+- grease
+- command: halt
+- earthbind
+- feather fall
+## Expedition
+- sleep
+- fog cloud
+- colour spray blinding
+- hold monster
+- counterspell / dispel magic
+## Sustained and then used up
 - light / continual flame
+# Ability Ideas
+- dominate monster
+- illusory chasm
+- phantom steed
+- enlarge / reduce
+- haste
+- web
 - mage hand
 - should probably have a ritual book or so for an expanded selection of utility (but not for free)
-- color spray blinding
 - comprehend languages
 - detect magic
-- feather fall
 - find familiar
-- fog cloud
-- grease
 - identify
-- magic missile
 - hideous laughter
-- blindness
 - detect thoughts
-- earthbind
-- enlarge / reduce
 - invisibility
 - knock
 - earthen grasp / arcane hand type stuff
 - locate object
 - magic weapon
 - teleport an ally
-- counterspell / dispel magic
 - create a crevace
 - fear
 - fly

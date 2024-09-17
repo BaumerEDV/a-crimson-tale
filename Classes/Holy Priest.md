@@ -1,38 +1,44 @@
 ---
 tags: class, healer
 ---
-## Ability Ideas
+# Powers
+## Passive
+- prayer of healing / some party wide healing buff
+## At-Will
 - smite / sacred flame type ability
-- AoE heal
+- mending
+## Scene
 - single target heal
+- sanctuary
+- AoE heal
+- command grovel
+## Expedition
+- hold monster
+- lesser / greater restoration
+- wall of light
+- daylight
+- dispel magic
+## Sustained and then spent
+- waterwalk
+- zone of truth
+- water breathing
+# Ability Ideas
 - resurrection
 - summon a temple to your god
-- waterwalk
-- water breathing
-- wall of light
 - summon a celestial ally
-- mending
 - resistance
 - thaumaturgy
 - create water / create / purify food and drink
-- command grovel
-- sanctuary
 - some temp hp shield
 - augury
 - Aid / max hp increase?
 - calm emotions
 - find traps
-- hold person
-- lesser / greater restoration
-- prayer of healing / some party wide healing buff
 - silence
 - protection from poison / energy
 - blessing of protection / proactive damage reduction
-- zone of truth
 - bestow curse
 - clairvoyance / scrying
-- daylight
-- dispel magic
 - life transferring ability
 - remove curse
 - sending
