@@ -54,19 +54,23 @@ Effect: Slow their rate of descent to 30 feet per round. Affected creatures can 
 Effort: spend Effort for the Expedition
 Action: Main Action
 Effect: In a 20 foot radius sphere within 90 feet, 2d8 HD worth of creatures fall asleep for an hour. Creatures with lower HD are affected first. Cannot affect creatures with more than 4 HD. Does not affect creatures that do not need to sleep. As a Main Action, a creature adjacent to a sleeping creature can either wake them up or unerringly kill them.
+This ability provokes Attacks of Opportunity.
 ### Fog Cloud
 Effort: spend Effort for the Expedition
 Action: Main Action
 Effect: In a 30 foot radius sphere within 120 feet, an opaque cloud of fog appears and remains there for the remainder of the scene - unless dispersed by strong winds.
+This ability provokes Attacks of Opportunity.
 ### Color Spray
 Effort: spend Effort for the Expedition
 Action: Main Action
 Effect: Pick up to 3 creatures in a 60 foot cone on front of you. They must succeed on a Physical Save or be blinded for the remainder of the scene.
+This ability provokes Attacks of Opportunity.
 ### Hold Monster
 Effort: spend Effort for the Expedition
 Action: Main Action
 Will Save
 Fail: Creature is paralyzed. Repeats the save at the start of your turns. 
+This ability provokes Attacks of Opportunity.
 ### Counterspell
 Effort: spend Effort for the Expedition
 Action: Reaction, when you see a spell being cast

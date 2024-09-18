@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Knight.md",
+                "file": "Classes/Pyromancer.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Knight.md",
+                "file": "Classes/Pyromancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Knight.md",
+                "file": "Classes/Pyromancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Knight.md"
+                "file": "Classes/Pyromancer.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "18cf5faf4430ecac",
   "lastOpenFiles": [
-    "Classes/Holy Priest.md",
-    "Goals and Invariants.md",
-    "Classes/Knight.md",
-    "MVP.md",
     "Classes/Control Mage.md",
+    "Classes/Holy Priest.md",
+    "Classes/Pyromancer.md",
+    "Classes/Knight.md",
+    "Goals and Invariants.md",
+    "MVP.md",
     "Classes/Assassin.md",
     "Classes/Archer.md",
     "Templates/ClassTemplate.md",
-    "Classes/Pyromancer.md",
     "Core Systems.md",
     "Classes/Necromancer.md",
     "Pasted image 20240917174940.png",

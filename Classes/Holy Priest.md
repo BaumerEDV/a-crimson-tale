@@ -58,6 +58,7 @@ Effort: spend Effort for the Expedition
 Action: Main Action
 Will Save
 Fail: Creature is paralyzed. Repeats the save at the start of your turns. 
+This ability provokes Attacks of Opportunity.
 ### Dispel Magic
 Effort: spend Effort for the Expedition
 Action: Main Action
@@ -75,6 +76,7 @@ Effort: spend Effort for the Expedition
 Action: Main Action
 Effect: You summon a wall of light 30 feet high and 60 feet long and 1 inch thick within 120 feet of you. The wall is a straight line. The wall sheds bright light within 60 feet of it. A creature inside the area when the wall appears, a creature that enters the area, or a creature that ends its turn in the area takes 2d8 damage. Also, such creatures must succeed on a Physical save or be blinded - they can repeat the save at the start of your turn to end the effect.
 As a Main Action on subsequent turns, you can shoot a beam of light from the wall (Attack Roll vs AC) for 2d8 damage, this decreases the length of the wall by 10 feet. When the wall is gone, you can no longer shoot light from it.
+This ability provokes Attacks of Opportunity.
 
 # Draft Notes from here on out
 
