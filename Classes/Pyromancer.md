@@ -9,6 +9,7 @@ tags:
 |10  |10  |7   |-1   |0    |0    | +1  |0    |+2   |
 **Damage**: highest
 **Defense**: lowest
+**Level 1 Skills**: Magic, Talk
 
 # Abilities
 ## Passive

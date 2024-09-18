@@ -9,6 +9,7 @@ tags:
 | 10 |10  |7   |  -1 |0    |    0| +2  | 1   |   0 |
 **Damage**: low
 **Defense**: low
+**Level 1 Skills:**: Know, Magic
 
 # Abilities
 ## Always Available

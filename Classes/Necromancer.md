@@ -9,6 +9,7 @@ tags:
 |15  |14  |12  |-1   |-1   |+1   |+2   |0    |0    |
 **Damage**: average
 **Defense**: average
+**Level 1 Skills**: Heal, Magic, Pray, Survive
 
 # Abilities
 ## Passive

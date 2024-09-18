@@ -9,6 +9,7 @@ tags:
 | 15  | 14  | 10  | 0   | +2  | 0   | 0   | +1  | 0   |
 **Damage**: high
 **Defense**: average
+**Level 1 Skills:**: Exert, Heal, Notice, Survive
 
 # Abilities
 ## Passive

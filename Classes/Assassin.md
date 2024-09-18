@@ -9,6 +9,7 @@ tags:
 |15  |14  | 10 |0    |+2   |0    | +1  |+1   |+1   |
 **Damage**: high
 **Defense**: average
+**Level 1 Skills:**: Notice, Sneak, Survive, Talk, Thieves' Tools
 
 # Abilities
 ## Passive

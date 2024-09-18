@@ -9,6 +9,7 @@ tags:
 | 10 |10  |10  |0    |0    |0    |+1   |+2   |+1   |
 **Damage**: Mid
 **Defense**: Low
+**Level 1 Skills:**: Heal, Know, Magic, Pray
 
 # Abilities
 ## Passive
