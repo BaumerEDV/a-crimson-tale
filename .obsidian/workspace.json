@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Systems.md",
+                "file": "MVP Core Systems.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Systems.md",
+                "file": "MVP Core Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Systems.md",
+                "file": "MVP Core Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Systems.md"
+                "file": "MVP Core Systems.md"
               }
             }
           }
@@ -153,7 +153,7 @@
     "Classes/Knight.md",
     "Classes/Necromancer.md",
     "Classes/Pyromancer.md",
-    "Core Systems.md",
+    "MVP Core Systems.md",
     "Classes/Holy Priest.md",
     "Classes/Control Mage.md",
     "Goals and Invariants.md",
