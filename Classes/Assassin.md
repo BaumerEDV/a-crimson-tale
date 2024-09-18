@@ -29,6 +29,10 @@ Hit: 2d8 damage
 Action: Main Action
 Melee Attack Roll vs AC
 Hit: 2d8 damage, you drive back (push) the opponent 5 feet and follow them by entering the spot they just left - this does not provoke opportunity attacks.
+### Throw Dagger
+Action: Main Action
+40 foot Ranged Attack Roll vs AC
+Hit: d8 damage
 
 ## Per Scene
 ### Smoke Bomb

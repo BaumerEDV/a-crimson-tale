@@ -27,12 +27,17 @@ Your range with bows is doubled. (Bow range is undefined in the MVP :P )
 *A standard shot of your arrow.*
 Action: Main Action
 Attack Roll vs AC
-Hit: 2d6
+Hit: 2d6 damage
 ### Steady Shot
 *You take your time to aim for greater effect*
 Action: Main Action + Move Action
 Attack Roll vs AC
-Hit: 2d8
+Hit: 2d8 damage
+### Melee Strike
+*Someone's gotta do the dirty work. It appears this time it's you.*
+Action: Main Action
+Melee Attack Roll vs AC
+Hit: d6 damage
 
 ## Per Scene
 ### Rapid Fire
@@ -57,7 +62,7 @@ Effect: Pick a spot within 30 feet that you can hit with an arrow; you shoot you
 Effort: spend Effort for the scene
 Action: Main Action
 Attack Roll vs AC
-Hit: 2d8 and move your speed without taking opportunity attacks.
+Hit: 2d8 and move your speed without taking opportunity attacks. The target cannot charge next turn.
 
 ## Per Expedition
 ### Kill-Shot

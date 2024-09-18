@@ -4,3 +4,14 @@
 |    |    |    |     |     |     |     |     |     |
 **Damage**: 
 **Defense**: 
+
+# Abilities
+## Passive
+
+## Always Available
+
+## Per Scene
+
+## Per Expedition
+
+# Draft Notes from here on out
