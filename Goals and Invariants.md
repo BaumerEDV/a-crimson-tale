@@ -47,3 +47,6 @@
 magic items
 how do weapons work
 does damage on a miss affect punching up
+how do you balance zone powers that do repeated damage
+how do you balance powers that unlock an action option to do repeat damage
+when should repeat saves happen / effects end

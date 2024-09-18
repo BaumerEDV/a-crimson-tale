@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Control Mage.md",
+                "file": "Classes/Knight.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Control Mage.md",
+                "file": "Classes/Knight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Control Mage.md",
+                "file": "Classes/Knight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Control Mage.md"
+                "file": "Classes/Knight.md"
               }
             }
           }
@@ -148,21 +148,21 @@
   },
   "active": "18cf5faf4430ecac",
   "lastOpenFiles": [
+    "Classes/Holy Priest.md",
+    "Goals and Invariants.md",
+    "MVP.md",
+    "Classes/Control Mage.md",
     "Classes/Assassin.md",
     "Classes/Archer.md",
-    "Classes/Control Mage.md",
     "Templates/ClassTemplate.md",
     "Classes/Pyromancer.md",
     "Core Systems.md",
     "Classes/Necromancer.md",
-    "Classes/Holy Priest.md",
     "Classes/Knight.md",
     "Pasted image 20240917174940.png",
     "nacro.md",
-    "MVP.md",
     "Templates",
     "Classes",
-    "Goals and Invariants.md",
     "lu5647183gko.tmp",
     "Executing on MVP 1.md",
     "lu351653cxun.tmp",

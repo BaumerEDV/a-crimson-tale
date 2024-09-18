@@ -22,7 +22,7 @@ Hit: d8 damage, target's speed is halved until the start of your next turn.
 ### Confound
 Action: Main Action
 Mental Save
-Fail: The target becomes distracted; attacks against it have +3 to hit until the start of your next turn.
+Fail: The target becomes distracted; attacks against it have +2 to hit until the start of your next turn.
 
 ## Per Scene
 ### Blindness
