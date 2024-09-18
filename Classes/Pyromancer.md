@@ -10,6 +10,16 @@ tags:
 **Damage**: highest
 **Defense**: lowest
 **Level 1 Skills**: Magic, Talk
+**Encumbrance**: Readied 4, Stowed 8
+
+# Starting Equipment
+Wand (Readied, ENC 1)
+Backpack (Readied, ENC 1)
+3 Torches (Stowed, ENC 1)
+1 week's rations (Stowed, ENC 4)
+Waterskin (Stowed, ENC 1)
+80 sp
+Remaining: Readied 2, Stowed 2
 
 # Abilities
 ## Passive

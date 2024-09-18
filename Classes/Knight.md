@@ -10,6 +10,16 @@ tags:
 **Damage**: low
 **Defense**: high
 **Level 1 Skills**: Exert, Heal, Notice, Survive, Talk
+**Encumbrance**: Readied 7, Stowed 14
+
+# Starting Equipment
+Heavy Armor (Readied, ENC 2)
+Shield (Readied, ENC 1)
+Sword (Readied, ENC 1)
+Backpack (Readied, ENC 1)
+1 week's rations (Stowed, ENC 4)
+20 sp
+Remaining: Readied 2, Stowed 10
 
 # Abilities
 ## Passive

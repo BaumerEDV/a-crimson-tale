@@ -10,6 +10,22 @@ tags:
 **Damage**: high
 **Defense**: average
 **Level 1 Skills:**: Exert, Heal, Notice, Survive
+**Encumbrance**: Readied 5, Stowed 10
+
+# Starting Gear
+Light Armor (Readied, ENC 0)
+Bow, Large (Readied, ENC 2)
+20 Arrows + Quiver (Readied, ENC 1)
+Dagger (Readied, ENC 1)
+Backpack (Readied, ENC 1)
+Cooking utensils (Stowed, ENC 1)
+1 week of rations (Stowed ENC 4)
+Waterskin (Stowed, ENC 1)
+Tinderbox (Stowed, ENC 0)
+3 Torches (Stowed, ENC 1)
+Healer's Pouch (Stowed, ENC 1)
+20 sp
+Remaining: Readied: 0, Stowed: 2
 
 # Abilities
 ## Passive

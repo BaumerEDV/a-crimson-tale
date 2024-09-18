@@ -10,6 +10,19 @@ tags:
 **Damage**: average
 **Defense**: average
 **Level 1 Skills**: Heal, Magic, Pray, Survive
+**Encumbrance**: Readied 3, Stowed 6
+
+# Starting Equipment
+Light Armor (Readied, ENC 0)
+Scythe (Readied, ENC 1)
+Backpack (Readied, ENC 1)
+Tinder Box (Stowed, ENC 0)
+Lantern (Readied, ENC 1)
+1 pints of oil (Stowed, ENC 1 each)
+1 week's rations (Stowed, ENC 4)
+Waterskin (Stowed, ENC 1)
+80 sp
+Remaining: Readied 0; Stowed 0
 
 # Abilities
 ## Passive
@@ -60,7 +73,7 @@ Effect: Undead of your choice within 30 feet of you must succeed a Mental Save o
 Effort: spend Effort for the Expedition
 Action: Main Action
 Effect: While the Effort spent on this ability remains spent, you can summon a Skeletal Archer (described below) as a Free Action at the cost of 1 SS. You can only have 1 Skeletal archer per Effort spent in this way at a time, though you can have multiple Skeletal Archers if you spend multiple points of Effort on this ability. Skeletal Archers act on your turn; they attack jointly: attacking the same target and using only one attack roll (which is used to resolve all their attacks).
-Skeletal Archer: uses your to-hit and AC; 6 HP (counts as 1HD); 2 damage on a hit
+Skeletal Archer: uses your to-hit and AC; 6 HP (counts as 1HD); 2 damage on a hit; can carry 2 ENC
 
 # Draft Notes from here on out
 

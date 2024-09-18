@@ -10,6 +10,22 @@ tags:
 **Damage**: high
 **Defense**: average
 **Level 1 Skills:**: Notice, Sneak, Survive, Talk, Thieves' Tools
+**Encumbrance**: Readied 6, Stowed 12
+
+# Starting Gear
+Light Armor (Readied, ENC 0)
+2 Daggers (Readied, ENC 1 each)
+5 Throwing Blades (Readied, ENC 1)
+Backpack (Readied, ENC 1)
+Rations, 1 week (Stowed, ENC 4)
+Waterskin (Stowed, ENC 1)
+Tinderbox (Stowed, ENC 0)
+3 Torches (Stowed, ENC 1)
+Grappling Hook (Stowed, ENC 1)
+50 feet of rope (Stowed, ENC 1)
+20 sp
+Remaining: Readied 3, Stowed 4
+
 
 # Abilities
 ## Passive
@@ -30,7 +46,7 @@ Hit: 2d8 damage
 Action: Main Action
 Melee Attack Roll vs AC
 Hit: 2d8 damage, you drive back (push) the opponent 5 feet and follow them by entering the spot they just left - this does not provoke opportunity attacks.
-### Throw Dagger
+### Throw Throwing Blade
 Action: Main Action
 40 foot Ranged Attack Roll vs AC
 Hit: d8 damage

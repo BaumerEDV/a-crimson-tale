@@ -10,6 +10,19 @@ tags:
 **Damage**: Mid
 **Defense**: Low
 **Level 1 Skills:**: Heal, Know, Magic, Pray
+**Encumbrance**: Readied 4, Stowed 8
+
+# Starting Equipment
+Censer (Readied, ENC 1)
+Backpack (Readied, ENC 1)
+Tinder Box (Stowed, ENC 0)
+Lantern (Readied, ENC 1)
+2 pints of oil (Stowed, ENC 1 each)
+Prayer Book (Stowed, ENC 1)
+1 week's rations (Stowed, ENC 4)
+Waterskin (Stowed, ENC 1)
+80 sp
+Remaining: Readied 1, Stowed 0
 
 # Abilities
 ## Passive
