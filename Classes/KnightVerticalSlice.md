@@ -46,7 +46,7 @@ Action: Reaction, when an ally you could move adjacent to with a move action is 
 Effect: Move adjacent to that ally without provoking Attacks of Opportunity and catch the attack with your shield. If the initial hit roll would miss you, the attack misses, otherwise, you suffer the effects of the attack.  
 
 # Ability Picks
-Every level, pick one of these abilities (you are allowed to pick from lower level abilities):
+Every level after level 1, pick one of these abilities (you are allowed to pick from lower level abilities):
 
 
 # Level 2+
